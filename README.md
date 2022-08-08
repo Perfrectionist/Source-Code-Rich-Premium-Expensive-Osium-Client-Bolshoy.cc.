@@ -18,6 +18,8 @@ Cегодня произойдет утечка сурсов клиентов т
 
  Эти сурсы вы сможете спокойно запустить. 
 
+Добровольное пожертвование - https://www.donationalerts.com/r/anarway
+
 Наш дискорд сервер - https://discord.gg/fgyJkYnABe
 
 Наша группа вконтакте - https://vk.com/capybaraclient
