@@ -1,8 +1,8 @@
-# Rich-Premium-Expensive-Osium-Client-Bolshoy.cc-Source-Code.
-Слив сурсов клиентов таких как Rich-Premium , Expensive, OsiumClient.
+# Source-Code Rich-Premium-Expensive-Osium-Client-Bolshoy.cc-Source-Code.
+Слив сурсов клиентов таких как Rich-Premium , Expensive, OsiumClient, Bolshoy.cc.
 ||@everyone||
 
-Cегодня произойдет утечка сурсов клиентов таких как Rich-Premium , Expensive, BolshoyClient, OsiumClient. 
+Cегодня произойдет утечка сурсов клиентов таких как Rich-Premium , Expensive, Bolshoy.cc, OsiumClient. 
 
 Утечка происходит из-за того что меня раздражает то-что клиенты не имея никаких знаний , получают крупные суммы с клиентов ( OsiumClient не получает крупные суммы , а лишь выебываеться тем что сам ничего не знает в джаве и не умеет так же ребенку делают паста-клиент совсем другие люди , сам же человек ничего не умеет кроме того как вставлять готовое , даже ошибки элементарные фиксить не может , он не получает крупные суммы)0 ) 
 
