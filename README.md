@@ -24,4 +24,10 @@ Cегодня произойдет утечка сурсов клиентов т
 
 Наша группа вконтакте - https://vk.com/capybaraclient
 
+СЛАВА ХВХ КОМЬЮНИТИ
+
+ДАЛЬШЕ - ЛУЧШЕ
+
+ДАЛЬШЕ - БОЛЬШЕ
+
 SRC Rich-Premium - https://moneyz.fun/cCy4us
