@@ -1,6 +1,6 @@
 # Source-Code Rich-Premium-Expensive-Osium-Client-Bolshoy.cc-Source-Code.
 Слив сурсов клиентов таких как Rich-Premium , Expensive, OsiumClient, Bolshoy.cc.
-||@everyone||
+everyone
 
 Cегодня произойдет утечка сурсов клиентов таких как Rich-Premium , Expensive, Bolshoy.cc, OsiumClient. 
 
@@ -12,11 +12,11 @@ Cегодня произойдет утечка сурсов клиентов т
 
 На данный момент я считаю что самым лучшим решением будет купить DeadCode или Celestial Recode. 
 
-|| Два лучших программного обеспечения на данное время по моему мнению. ||
+ Два лучших программного обеспечения на данное время по моему мнению. 
 
-Лица юных пастеров.  || 1 фотография - создатель RichClient - ExpensiveClient. 2 фотография создателя OsiumClient. ( will be soon ) || 
+Лица юных пастеров.  || 1 фотография - создатель RichClient - ExpensiveClient. 2 фотография создателя OsiumClient. ( will be soon )  
 
-|| Эти сурсы вы сможете спокойно запустить. ||
+ Эти сурсы вы сможете спокойно запустить. 
 
 Наш дискорд сервер - https://discord.gg/fgyJkYnABe
 
