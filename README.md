@@ -23,3 +23,5 @@ Cегодня произойдет утечка сурсов клиентов т
 Наш дискорд сервер - https://discord.gg/fgyJkYnABe
 
 Наша группа вконтакте - https://vk.com/capybaraclient
+
+SRC Rich-Premium - https://moneyz.fun/cCy4us
